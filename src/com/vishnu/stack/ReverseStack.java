@@ -3,11 +3,6 @@ package com.vishnu.stack;
 
 import java.util.Stack;
  
-/**
- * @author prathore
- * @date 11/06/23
- * @since 244
- */
 public class ReverseStack {
  
     public static void main(String[] args) {
